@@ -13,7 +13,6 @@ alias life='cd ~/Documents/life/'
 alias books='cd ~/Documents/life/books/'
 alias pix='cd ~/Pictures/'
 alias sites='cd ~/Sites/'
-alias protosite='cd ~/Sites/protosite/'
 
 # OPEN STUFF
 alias termtips='open http://gist.github.com/585169'
