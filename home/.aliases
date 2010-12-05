@@ -31,7 +31,7 @@ alias reload="source ~/.profile"
 alias cp='cp -i'
 alias mv='mv -i'
 alias ll='ls -la'
-alias ftail='tail -f Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
+alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
 
 function show_colors() {
   echo -e "${COLOR_BLACK}COLOR_BLACK"

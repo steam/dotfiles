@@ -6,3 +6,4 @@
 .svn
 *.swp
 .livereload
+.sass-cache
