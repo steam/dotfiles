@@ -5,6 +5,7 @@ alias git=hub
 alias dotfiles='cd ~/.homesick/repos/dotfiles/'
 alias vimfiles='cd ~/.homesick/repos/vimfiles/'
 alias matefiles='cd ~/Library/Application\ Support/TextMate/'
+alias minefiles='cd ~/Library/Preferences/RubyMine30/'
 alias desktop='cd ~/Desktop/'
 alias sort='cd ~/Desktop/sort/'
 alias dox='cd ~/Documents/'
@@ -17,8 +18,7 @@ alias sites='cd ~/Sites/'
 # OPEN STUFF
 alias termtips='open http://gist.github.com/585169'
 
-# IDEs and ENVIRONMENTS
-alias mine="/Applications/RubyMine.app/Contents/MacOS/rubymine &"
+# ENVIRONMENTS
 alias node-repl="rlwrap node-repl"
 
 # BROWSERS
