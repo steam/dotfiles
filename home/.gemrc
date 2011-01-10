@@ -5,6 +5,6 @@
 :sources: 
 - http://rubygems.org
 - http://gems.github.com
-# gem: -n/usr/local/bin --no-ri --no-rdoc
+# gem: -n/usr/bin --no-ri --no-rdoc
 :backtrace: false
 :benchmark: false

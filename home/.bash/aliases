@@ -27,28 +27,16 @@ alias firefox='open -a FireFox'
 alias chrome='open -a Google\ Chrome'
 
 # MISC
-alias reload="source ~/.profile"
+alias reload="source ~/.bash_profile"
 alias cp='cp -i'
 alias mv='mv -i'
-alias ll='ls -la'
+alias ls='ls -G'
+alias ll='ls -lA'
+alias lls='ls -lAS'
+alias ..='cd ..'
+alias hi='history | tail -50'
 alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
 
-function show_colors() {
-  echo -e "${COLOR_BLACK}COLOR_BLACK"
-  echo -e "${COLOR_GRAY}COLOR_GRAY"
-  echo -e "${COLOR_RED}COLOR_RED"
-  echo -e "${COLOR_LIGHT_RED}COLOR_LIGHT_RED"
-  echo -e "${COLOR_GREEN}COLOR_GREEN"
-  echo -e "${COLOR_LIGHT_GREEN}COLOR_LIGHT_GREEN"
-  echo -e "${COLOR_BROWN}COLOR_BROWN"
-  echo -e "${COLOR_YELLOW}COLOR_YELLOW"
-  echo -e "${COLOR_BLUE}COLOR_BLUE"
-  echo -e "${COLOR_LIGHT_BLUE}COLOR_LIGHT_BLUE"
-  echo -e "${COLOR_MAGENTA}COLOR_MAGENTA"
-  echo -e "${COLOR_LIGHT_MAGENTA}COLOR_LIGHT_MAGENTA"
-  echo -e "${COLOR_CYAN}COLOR_CYAN"
-  echo -e "${COLOR_LIGHT_CYAN}COLOR_LIGHT_CYAN"
-  echo -e "${COLOR_LIGHT_GRAY}COLOR_LIGHT_GRAY"
-  echo -e "${COLOR_WHITE}COLOR_WHITE"
-  echo -e "${COLOR_NC}COLOR_NC"
-}
+# Rails
+alias railss='rails s thin'
+alias migrate='rake db:migrate'

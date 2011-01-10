@@ -7,3 +7,4 @@
 *.swp
 .livereload
 .sass-cache
+.rake_cache

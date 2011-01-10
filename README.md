@@ -6,6 +6,8 @@ My personal dot files for mac os x on snow leopard managed by [homesick][homesic
 
 This is where the magic happens.
 
+Note for later: chmod +x
+
 Themes included with this configuration:
 
 1. **colorblind.terminal** - Black background, super vibrant colors

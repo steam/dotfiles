@@ -6,9 +6,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
 	AAGGoKMHCA9VJG51bGzTCQoLDA0OViRjbGFzc1xOU0NvbG9yU3BhY2VVTlNSR0KAAhAB
-	RjEgMSAxANIQERITWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNDb2xvcqISFFhOU09iamVj
-	dF8QD05TS2V5ZWRBcmNoaXZlctEXGFRyb290gAEIERojLTI3O0FIT1xiZGZtcn2GjpGa
-	rK+0AAAAAAAAAQEAAAAAAAAAGQAAAAAAAAAAAAAAAAAAALY=
+	TxAsMC42NjY2NjY2NjY3IDAuNjY2NjY2NjY2NyAwLjY2NjY2NjY2NjcgMC45NQDSEBES
+	E1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29sb3KiEhRYTlNPYmplY3RfEA9OU0tleWVk
+	QXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSE9cYmRmlZqlrra5wtTX3AAAAAAAAAEB
+	AAAAAAAAABkAAAAAAAAAAAAAAAAAAADe
 	</data>
 	<key>Bell</key>
 	<true/>
@@ -20,9 +21,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
 	AAGGoKMHCA9VJG51bGzTCQoLDA0OViRjbGFzc1xOU0NvbG9yU3BhY2VVTlNSR0KAAhAB
-	TxARMSAwLjUwMTk2MDc4NDMgMQDSEBESE1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQ29s
-	b3KiEhRYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztB
-	SE9cYmRmen+Kk5uep7m8wQAAAAAAAAEBAAAAAAAAABkAAAAAAAAAAAAAAAAAAADD
+	TxAnMC41ODAzOTIxNTY5IDAuNDc4NDMxMzcyNSAwLjY5MDE5NjA3ODQA0hAREhNaJGNs
+	YXNzbmFtZVgkY2xhc3Nlc1dOU0NvbG9yohIUWE5TT2JqZWN0XxAPTlNLZXllZEFyY2hp
+	dmVy0RcYVHJvb3SAAQgRGiMtMjc7QUhPXGJkZpCVoKmxtL3P0tcAAAAAAAABAQAAAAAA
+	AAAZAAAAAAAAAAAAAAAAAAAA2Q==
 	</data>
 	<key>CursorType</key>
 	<integer>0</integer>
@@ -106,27 +108,27 @@
 	<key>brightBlueColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIPJyMg+AQGG
+	ZmZmg4mIiD6Dq6qqPoOJiAg/AYY=
 	</data>
 	<key>brightCyanColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/Hw8D6DtbQ0PoO+vT0/AYY=
+	ZmZmAIOamRk/g5qZGT8Bhg==
 	</data>
 	<key>brightGreenColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg/X0dD6DnZwcPwABhg==
+	ZmZmAIPJyMg+AAGG
 	</data>
 	<key>brightMagentaColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAYOBgAA/AQGG
+	ZmZmg/Hw8D6DtbQ0PoO+vT0/AYY=
 	</data>
 	<key>brightRedColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQAAAYY=
+	ZmZmg5GFTD8AAAGG
 	</data>
 	<key>brightWhiteColour</key>
 	<data>
@@ -136,19 +138,19 @@
 	<key>brightYellowColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAYOXlhY/AAGG
+	ZmZmg//+/j4Ag/X0dD4Bhg==
 	</data>
 	<key>columnCount</key>
 	<integer>120</integer>
 	<key>cyanColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIPLyko/g8vKSj8Bhg==
+	ZmZmg4GAgD2DiYgIP4OJiAg/AYY=
 	</data>
 	<key>greenColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAIPJyMg+AAGG
+	ZmZmg/X0dD6DnZwcPwABhg==
 	</data>
 	<key>keyMapBoundKeys</key>
 	<dict>
@@ -264,14 +266,14 @@
 	<key>magentaColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAQABAYY=
+	ZmZmg6uqKj+DsbAwPoONjAw/AYY=
 	</data>
 	<key>name</key>
-	<string>snowblind</string>
+	<string>cataracts</string>
 	<key>redColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmgy1kIT8AAAGG
+	ZmZmg5qZGT8AAAGG
 	</data>
 	<key>rowCount</key>
 	<integer>71</integer>
@@ -279,15 +281,17 @@
 	<integer>1</integer>
 	<key>type</key>
 	<string>Window Settings</string>
+	<key>useOptionAsMetaKey</key>
+	<true/>
 	<key>whiteColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmg5qZGT+DmpkZP4OamRk/AYY=
+	ZmZmg+/u7j6D7+7uPoPv7u4+AYY=
 	</data>
 	<key>yellowColour</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
-	ZmZmAYPJyMg+AAGG
+	ZmZmg8PCQj+DlZSUPgABhg==
 	</data>
 </dict>
 </plist>
