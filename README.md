@@ -1,12 +1,11 @@
+
 # Dotfiles
-My personal dot files for mac os x on snow leopard managed by [homesick][homesick]
+My personal dot files for mac os x on snow leopard managed by [homesick][homesick].
 
 
 ## Terminal
 
 This is where the magic happens.
-
-Note for later: chmod +x
 
 Themes included with this configuration:
 
@@ -19,4 +18,64 @@ To use the Terminal themes, install [SIMBL 0.9.7](http://www.culater.net/softwar
 
     ~/Library/Application Support/SIMBL/Plugins/
 
+**Most themes use the custom [MesloGM font](https://github.com/andreberg/Meslo-Font). Download, install and live the dream.**
+
+## Shell Scripts
+
+Within the `.bin` directory are various scripts and helpers for a crap load of stuff. Due to how [homesick][homesick] handles symlinks, it's necessary to run `chmod +x` on any of these symbolic links to set up the correct permissions.
+
+
+## VIM
+
+Dotfiles associated with Vim are primarily handled by [Factory's Vim repository][vimfiles]. The local settings for my machine are applied in the `backups/.vimrc.local` file. The installed bundles currently being rocked are listed below.
+
+
+### Installed Bundles
+
+<!-- START -->
+- ack.vim
+- actionscript.vim
+- applescript.vim
+- autocorrect.vim
+- browser-refresh.vim
+- bufkill.vim
+- camelcasemotion
+- cocoa.vim
+- delimitMate
+- gist-vim
+- indexed-search.vim
+- jade.vim
+- json.vim
+- markdown-preview.vim
+- nerdcommenter
+- nerdtree
+- processing.vim
+- rvm.vim
+- snipmate.vim
+- statusline
+- syntastic
+- tabular
+- taglist.vim
+- vim-cucumber
+- vim-fugitive
+- vim-haml
+- vim-javascript
+- vim-markdown
+- vim-rails
+- vim-repeat
+- vim-ruby
+- vim-supertab
+- vim-surround
+- vim-unimpaired
+- yankring
+
+<!-- END -->
+
+
+## Backups
+
+[Homesick][homesick] takes care of symlinking files, but it's necessary to run `bash backup` from the `~/.homesick/repos/dotfiles/` directory to grab a few other files, terminal colors and listing of the installed vim bundles. This should keep the dotfiles in check and up to date.
+
 [homesick]: http://github.com/technicalpickles/homesick
+[vimfiles]: https://github.com/factorylabs/vimfiles
+
