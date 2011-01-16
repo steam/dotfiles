@@ -38,5 +38,6 @@ alias hi='history | tail -50'
 alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
 
 # Rails
-alias railss='rails s thin'
+alias railst='rails s thin'
 alias migrate='rake db:migrate'
+
