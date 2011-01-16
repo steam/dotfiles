@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# Shortcut for locating a process by name
+ps aux | grep $*

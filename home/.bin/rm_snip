@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# Quickly remove a symlink javascript snippets for VIM
+arg=$1
+pre="javascript-"
+post=".snippets"
+sdir=${HOME}/.homesick/repos/vimfiles/home/.vim/
+
+if [[ $arg = prototype || $arg = proto ]]; then
+  lib="prototype"
+elif [[ $arg = jquery ]]; then
+  lib="jquery"
+elif [[ $arg = node ]]; then
+  lib="node"
+elif [[ $arg = raphael ]]; then
+  lib="raphael"
+elif [[ $arg = jasmine ]]; then
+  lib="jasmine"
+else
+  echo Library $* not found!
+  exit 1
+fi
+
+sl=${pre}${lib}${post}
+
+
+if [[ -a ${sdir}/snippets/${sl} ]]; then
+  rm -v ${sdir}/snippets/${sl}
+else
+  echo ${sl} does not exist!
+  exit 1
+fi
+
