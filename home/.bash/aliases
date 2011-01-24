@@ -1,5 +1,6 @@
 # MAP GIT COMMANDS THROUGH HUB
 alias git=hub
+alias vim='/usr/local/Cellar/macvim/v7.3-53/MacVim.app/Contents/MacOS/Vim'
 
 # DIRECTORIES
 alias dotfiles='cd ~/.homesick/repos/dotfiles/'
@@ -31,8 +32,9 @@ alias reload="source ~/.bash_profile"
 alias cp='cp -i'
 alias mv='mv -i'
 alias ls='ls -G'
-alias ll='ls -lA'
-alias lls='ls -lAS'
+alias la='ls -lA'
+alias ll='ls -l'
+alias las='ls -lAS'
 alias ..='cd ..'
 alias hi='history | tail -50'
 alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
