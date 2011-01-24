@@ -20,6 +20,8 @@ To use the Terminal themes, install [SIMBL 0.9.7](http://www.culater.net/softwar
 
 **Most themes use the custom [MesloGM font](https://github.com/andreberg/Meslo-Font). Download, install and live the dream.**
 
+To get full mouse support (scrolling, clicking, etc...) within Terminal Vim, install the SIMBL [MouseTerm](http://bitheap.org/mouseterm/) plug-in.
+
 ## Shell Scripts
 
 Within the `.bin` directory are various scripts and helpers for a crap load of stuff. Due to how [homesick][homesick] handles symlinks, it's necessary to run `chmod +x` on any of these symbolic links to set up the correct permissions.
@@ -38,7 +40,6 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 - applescript.vim
 - autocorrect.vim
 - browser-refresh.vim
-- bufkill.vim
 - camelcasemotion
 - cocoa.vim
 - delimitMate
