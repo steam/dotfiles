@@ -3,7 +3,12 @@
 
 " User preferences
 " -----------------------------------------------------------------------------
-
+" Yank everything to the system clipboard
+set clipboard=unnamed
+set noshowcmd
+set nostartofline
+set textwidth=80
+" set nolazyredraw
 
 " User plugin configurations
 " -----------------------------------------------------------------------------
@@ -18,12 +23,12 @@ let g:snips_author = 'Matthew Kitt'
 " <F1>-<F8> are reserved for .vimrc
 
 " Bubble single lines in Terminal (requires unimpaired.vim)
-nmap <F12> [e
 nmap <F11> ]e
+nmap <F12> [e
 
 " Bubble multiple lines in Terminal (requires unimpaired.vim)
-vmap <F12> [egv
 vmap <F11> ]egv
+vmap <F12> [egv
 
 " User leader mapping
 " -----------------------------------------------------------------------------
