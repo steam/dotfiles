@@ -1,4 +1,5 @@
 #!/bin/bash
 
 # Find a file with a pattern in name:
+# Usage: ff .js or ff application
 find . -type f -iname '*'$*'*' -ls

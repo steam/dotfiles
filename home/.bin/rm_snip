@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Quickly remove a symlink javascript snippets for VIM
+# Usage: rm_snip jquery
 arg=$1
 pre="javascript-"
 post=".snippets"

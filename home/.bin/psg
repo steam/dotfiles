@@ -1,4 +1,5 @@
 #!/bin/bash
 
 # Shortcut for locating a process by name
+# Usage: psg Terminal
 ps aux | grep $*

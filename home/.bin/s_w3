@@ -1,3 +1,5 @@
 #!/bin/bash
+
+# Search w3: s_w3 document
 open "http://www.google.com/search?sitesearch=www.w3schools.com&as_q=$*"
 

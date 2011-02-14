@@ -1,2 +1,4 @@
 #!/bin/bash
+
+# Search ruby: s_ruby Array
 open "http://apidock.com/ruby/search?query=$*"

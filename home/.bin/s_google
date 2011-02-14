@@ -1,3 +1,5 @@
 #!/bin/bash
+
+# Search google: s_google ron burgandy
 open "http://www.google.com/search?hl=en&q=$*"
 

@@ -1,3 +1,5 @@
 #!/bin/bash
+
+# Search jquery: s_jquery animation
 open "http://api.jquery.com/?s=$*"
 

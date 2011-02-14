@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # Quickly symlink javascript snippets for VIM
+# Usage: sym_snip jquery
 arg=$1
 pre="javascript-"
 post=".snippets"

@@ -1,2 +1,4 @@
 #!/bin/bash
+
+# Search rspec: s_rspec assert
 open "http://apidock.com/rspec/search?query=$*"
