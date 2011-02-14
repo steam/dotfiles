@@ -1,5 +1,6 @@
 # Environment pathing and editor defaults
 export PATH="$HOME/.bin:/usr/local/bin:/usr/local/sbin:/usr/local/mysql/bin:/Developer/Tools:$HOME/.gem/ruby/1.8/bin:$PATH"
+export NODE_PATH="/usr/local/lib/node"
 export SVN_EDITOR='mvim -f -c "au VimLeave * !open -a Terminal"'
 export EDITOR='mvim -f -c "au VimLeave * !open -a Terminal"'
 export GEM_HOME="$HOME/.gem/ruby/1.8"
