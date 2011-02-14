@@ -36,6 +36,7 @@ alias la='ls -lA'
 alias ll='ls -l'
 alias las='ls -lAS'
 alias ..='cd ..'
+alias ...='cd ../..'
 alias hi='history | tail -50'
 alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
 
