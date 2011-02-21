@@ -17,6 +17,14 @@ let g:MarkdownPreviewUserStyles=$HOME.'/Sites/fmd-themes/styles/'
 let g:RefreshRunningBrowserDefault = 'chrome'
 let g:snips_author = 'Matthew Kitt'
 
+" Commands and helper functions
+" -----------------------------------------------------------------------------
+function! FixHTML()
+  setlocal autoread
+  execute('silent !tidy -m %')
+endfunction
+:command! FHTML :call FixHTML()
+
 
 " User key mapping
 " -----------------------------------------------------------------------------
@@ -29,6 +37,7 @@ nmap <F12> [e
 " Bubble multiple lines in Terminal (requires unimpaired.vim)
 vmap <F11> ]egv
 vmap <F12> [egv
+
 
 " User leader mapping
 " -----------------------------------------------------------------------------
