@@ -1,4 +1,0 @@
-#!/bin/bash
-
-# Search rails: s_rails has_many
-open "http://apidock.com/rails/search?query=$*"

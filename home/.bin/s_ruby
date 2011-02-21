@@ -1,4 +1,4 @@
 #!/bin/bash
 
 # Search ruby: s_ruby Array
-open "http://apidock.com/ruby/search?query=$*"
+open "http://railsapi.com/doc/rails-v3.0.3_ruby-v1.9.2/index.html?q=$*"
