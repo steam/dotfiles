@@ -1,6 +1,6 @@
 # MAP GIT COMMANDS THROUGH HUB
 alias git=hub
-alias vim='/usr/local/Cellar/macvim/v7.3-53/MacVim.app/Contents/MacOS/Vim'
+alias vim='/usr/local/Cellar/macvim/7.3-57/MacVim.app/Contents/MacOS/Vim'
 
 # DIRECTORIES
 alias dotfiles='cd ~/.homesick/repos/dotfiles/'
@@ -16,16 +16,22 @@ alias books='cd ~/Documents/life/books/'
 alias pix='cd ~/Pictures/'
 alias sites='cd ~/Sites/'
 
+# PROJECTS
+alias protosite='cd ~/Sites/protosite/'
+
 # OPEN STUFF
 alias termtips='open http://gist.github.com/585169'
 
-# ENVIRONMENTS
-alias node-repl="rlwrap node-repl"
-
-# BROWSERS
+# BROWSERS AND APPS
 alias safari='open -a Safari'
 alias firefox='open -a FireFox'
 alias chrome='open -a Google\ Chrome'
+alias propane='open -a Propane'
+alias preview='open -a Preview'
+alias itunes='open -a iTunes'
+
+# ENVIRONMENTS
+alias node-repl="rlwrap node-repl"
 
 # MISC
 alias reload="source ~/.bash_profile"
