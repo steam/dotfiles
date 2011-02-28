@@ -5,8 +5,8 @@
 arg=$1
 
 if [[ $arg = work ]]; then
-  osascript -e 'tell application "Terminal" to set size of window 1 to {2300, 1390}'
-  osascript -e 'tell application "Terminal" to set position of window 1 to {105, 35}'
+  osascript -e 'tell application "Terminal" to set size of window 1 to {2410, 1390}'
+  osascript -e 'tell application "Terminal" to set position of window 1 to {75, 35}'
 elif [[ $arg = laptop || $arg = home ]]; then
   osascript -e 'tell application "Terminal" to set size of window 1 to {1850, 1100}'
   osascript -e 'tell application "Terminal" to set position of window 1 to {37, 50}'
