@@ -38,7 +38,7 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 ### Installed Bundles
 
 <!-- START -->
-- ack.vim
+-e - ack.vim
 - actionscript.vim
 - applescript.vim
 - autocorrect.vim
