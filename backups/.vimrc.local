@@ -16,6 +16,8 @@ let g:yankring_history_dir=$HOME.'/.vim/tmp/yankring/'
 let g:MarkdownPreviewUserStyles=$HOME.'/Sites/fmd-themes/styles/'
 let g:RefreshRunningBrowserDefault = 'chrome'
 let g:snips_author = 'Matthew Kitt'
+" let g:clang_complete_auto = 0
+" let g:clang_complete_copen = 1
 
 " Commands and helper functions
 " -----------------------------------------------------------------------------

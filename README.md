@@ -44,6 +44,7 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 - autocorrect.vim
 - browser-refresh.vim
 - camelcasemotion
+- clang_complete
 - cocoa.vim
 - delimitMate
 - gist-vim
