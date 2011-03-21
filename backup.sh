@@ -23,7 +23,7 @@ done
 
 echo Updating README...
 head -n $cutline_head "$target" > $target.tmp
-echo -e $bundles >> $target.tmp
+echo $bundles >> $target.tmp
 tail -n $cutline_tail "$target" >> $target.tmp
 mv $target.tmp $target
 
