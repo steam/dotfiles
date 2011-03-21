@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 themes=${HOME}/Documents/machines/terminal-themes/
 echo Copying files...
 cp ${HOME}/.homesick/repos/vimfiles/home/.vimrc.local ${HOME}/.homesick/repos/dotfiles/backups/
