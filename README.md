@@ -43,6 +43,7 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 - applescript.vim
 - autocorrect.vim
 - browser-refresh.vim
+- bufkill.vim
 - camelcasemotion
 - clang_complete
 - cocoa.vim
