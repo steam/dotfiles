@@ -71,6 +71,7 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 - vim-rails
 - vim-repeat
 - vim-ruby
+- vim-stylus
 - vim-surround
 - vim-unimpaired
 - yankring
