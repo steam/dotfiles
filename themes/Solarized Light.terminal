@@ -11,6 +11,8 @@
 	QXJjaGl2ZXLRFxhUcm9vdIABCBEaIy0yNztBSE9cYmRmlZqlrra5wtTX3AAAAAAAAAEB
 	AAAAAAAAABkAAAAAAAAAAAAAAAAAAADe
 	</data>
+	<key>BlinkText</key>
+	<false/>
 	<key>CursorColor</key>
 	<data>
 	YnBsaXN0MDDUAQIDBAUGFRZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
@@ -24,10 +26,10 @@
 	<data>
 	YnBsaXN0MDDUAQIDBAUGGBlYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3AS
 	AAGGoKQHCBESVSRudWxs1AkKCwwNDg8QViRjbGFzc1ZOU05hbWVWTlNTaXplWE5TZkZs
-	YWdzgAOAAiNAJgAAAAAAABAQXU1lbmxvLVJlZ3VsYXLSExQVFlokY2xhc3NuYW1lWCRj
-	bGFzc2VzVk5TRm9udKIVF1hOU09iamVjdF8QD05TS2V5ZWRBcmNoaXZlctEaG1Ryb290
-	gAEIERojLTI3PEJLUllgaWttdniGi5afpqmyxMfMAAAAAAAAAQEAAAAAAAAAHAAAAAAA
-	AAAAAAAAAAAAAM4=
+	YWdzgAOAAiNAKAAAAAAAABAQWE1lc2xvTEdN0hMUFRZaJGNsYXNzbmFtZVgkY2xhc3Nl
+	c1ZOU0ZvbnSiFRdYTlNPYmplY3RfEA9OU0tleWVkQXJjaGl2ZXLRGhtUcm9vdIABCBEa
+	Iy0yNzxCS1JZYGlrbXZ4gYaRmqGkrb/CxwAAAAAAAAEBAAAAAAAAABwAAAAAAAAAAAAA
+	AAAAAADJ
 	</data>
 	<key>FontAntialias</key>
 	<true/>
@@ -62,6 +64,8 @@
 	ZXLRFxhUcm9vdIABCBEaIy0yNztBSE9cYmRmj5SfqLCzvM7R1gAAAAAAAAEBAAAAAAAA
 	ABkAAAAAAAAAAAAAAAAAAADY
 	</data>
+	<key>UseBoldFonts</key>
+	<false/>
 	<key>UseBrightBold</key>
 	<true/>
 	<key>blackColour</key>
@@ -129,6 +133,31 @@
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
 	ZmZmg9XTUz+D2thYPoODggI/AYY=
 	</data>
+	<key>mouseLeftClick</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2Jq
+	ZWN0AIWEASqEhAFplwGG
+	</data>
+	<key>mouseMiddleClick</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2Jq
+	ZWN0AIWEASqEhAFplwGG
+	</data>
+	<key>mouseRightClick</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2Jq
+	ZWN0AIWEASqEhAFplwGG
+	</data>
+	<key>mouseWheel</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2Jq
+	ZWN0AIWEASqEhAFplwGG
+	</data>
+	<key>mouseWheelEmulation</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAhOU051bWJlcgCEhAdOU1ZhbHVlAISECE5TT2Jq
+	ZWN0AIWEASqEhAFplwGG
+	</data>
 	<key>name</key>
 	<string>Solarized Light</string>
 	<key>redColour</key>
@@ -140,8 +169,8 @@
 	<string>Window Settings</string>
 	<key>whiteColour</key>
 	<data>
-	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg/Dubj+D6uhoP4PX1VU/AYY=
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
+	ZmZmg+zraz+D4+JiP4PLyko/AYY=
 	</data>
 	<key>yellowColour</key>
 	<data>

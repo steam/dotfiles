@@ -60,6 +60,7 @@ colorscheme colorblind
 " colorscheme snowblind
 
 
+
 " User GUI specific settings (could be in .gvimrc.local)
 " -----------------------------------------------------------------------------
 if has('gui_running')
