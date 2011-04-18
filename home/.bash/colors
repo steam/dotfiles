@@ -55,7 +55,7 @@ export COLOR_WHITE='\033[1;37m'
 # 10. directory writable to others, with sticky bit
 # 11. directory writable to others, without sticky bit
 #      LSCOLORS=0102030405060708091011
-export LSCOLORS=CxexFxdxDxBxfxbxExHxGx
+export LSCOLORS=cxexbxfxgxdxbxgxgxcxcx
 
 function show_colors() {
   echo -e "${COLOR_BLACK}COLOR_BLACK"

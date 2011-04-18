@@ -54,11 +54,12 @@ vmap <F12> [egv
 " User themes and GUI settings
 " -----------------------------------------------------------------------------
 
-colorscheme colorblind
+" colorscheme colorblind
+colorscheme solarizeddk
+" colorscheme solarizedlt
 " colorscheme bloodshot
 " colorscheme cataracts
 " colorscheme snowblind
-
 
 
 " User GUI specific settings (could be in .gvimrc.local)
