@@ -61,6 +61,8 @@ colorscheme solarizeddk
 " colorscheme cataracts
 " colorscheme snowblind
 
+" colorscheme solarized
+" set background=dark
 
 " User GUI specific settings (could be in .gvimrc.local)
 " -----------------------------------------------------------------------------
