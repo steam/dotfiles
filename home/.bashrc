@@ -12,3 +12,4 @@ set completion-ignore-case on
 
 shopt -s cdspell
 set -o vi
+
