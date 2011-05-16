@@ -63,6 +63,7 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 - syntastic
 - tabular
 - taglist.vim
+- vim-coffee-script
 - vim-cucumber
 - vim-fugitive
 - vim-haml
