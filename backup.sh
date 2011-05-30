@@ -2,7 +2,6 @@
 themes=${HOME}/Documents/machines/terminal-themes/
 echo Copying files...
 cp ${HOME}/.homesick/repos/vimfiles/home/.vimrc.local ${HOME}/.homesick/repos/dotfiles/backups/
-cp ${HOME}/mm.cfg ${HOME}/.homesick/repos/dotfiles/backups/
 cp -R ${themes} ${HOME}/.homesick/repos/dotfiles/themes/
 for i in `ls $themes`; do
   cp ${themes}/$i ${HOME}/.homesick/repos/vimfiles/extras/$i

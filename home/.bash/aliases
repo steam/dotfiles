@@ -5,19 +5,16 @@ alias vim='/usr/local/Cellar/macvim/7.3-57/MacVim.app/Contents/MacOS/Vim'
 # DIRECTORIES
 alias dotfiles='cd ~/.homesick/repos/dotfiles/'
 alias vimfiles='cd ~/.homesick/repos/vimfiles/'
-alias matefiles='cd ~/Library/Application\ Support/TextMate/'
-alias minefiles='cd ~/Library/Preferences/RubyMine30/'
 alias desktop='cd ~/Desktop/'
-alias sort='cd ~/Desktop/sort/'
 alias dox='cd ~/Documents/'
-alias work='cd ~/Documents/work/'
 alias life='cd ~/Documents/life/'
+alias sort='cd ~/Documents/sort/'
+alias work='cd ~/Documents/work/'
 alias books='cd ~/Documents/life/books/'
 alias pix='cd ~/Pictures/'
 alias sites='cd ~/Sites/'
 
 # PROJECTS
-alias protosite='cd ~/Sites/protosite/'
 
 # OPEN STUFF
 alias termtips='open http://gist.github.com/585169'
@@ -45,8 +42,4 @@ alias ..='cd ..'
 alias ...='cd ../..'
 alias hi='history | tail -50'
 alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
-
-# Rails
-alias railst='rails s thin'
-alias migrate='rake db:migrate'
 
