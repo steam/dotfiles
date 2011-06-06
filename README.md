@@ -42,9 +42,7 @@ Dotfiles associated with Vim are primarily handled by [Factory's Vim repository]
 - actionscript.vim
 - applescript.vim
 - autocorrect.vim
-- bufkill
 - bufkill.vim
-- camelcasemotion
 - camelcasemotion.vim
 - cocoa.vim
 - coffeescript.vim
