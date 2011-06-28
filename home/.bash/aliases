@@ -1,18 +1,18 @@
 # MAP GIT COMMANDS THROUGH HUB
-alias git=hub
-alias vim='/usr/local/Cellar/macvim/7.3-57/MacVim.app/Contents/MacOS/Vim'
+#alias git=hub
+#alias vim='/usr/local/Cellar/macvim/7.3-57/MacVim.app/Contents/MacOS/Vim'
 
 # DIRECTORIES
 alias dotfiles='cd ~/.homesick/repos/dotfiles/'
-alias vimfiles='cd ~/.homesick/repos/vimfiles/'
+#alias vimfiles='cd ~/.homesick/repos/vimfiles/'
 alias desktop='cd ~/Desktop/'
 alias dox='cd ~/Documents/'
-alias life='cd ~/Documents/life/'
-alias sort='cd ~/Documents/sort/'
-alias work='cd ~/Documents/work/'
-alias books='cd ~/Documents/life/books/'
-alias pix='cd ~/Pictures/'
-alias sites='cd ~/Sites/'
+#alias life='cd ~/Documents/life/'
+#alias sort='cd ~/Documents/sort/'
+#alias work='cd ~/Documents/work/'
+#alias books='cd ~/Documents/life/books/'
+#alias pix='cd ~/Pictures/'
+#alias sites='cd ~/Sites/'
 
 # PROJECTS
 
