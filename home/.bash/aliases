@@ -43,3 +43,9 @@ alias ...='cd ../..'
 alias hi='history | tail -50'
 alias ftail='tail -f ~/Library/Preferences/Macromedia/Flash\ Player/Logs/flashlog.txt'
 
+#git
+alias gcm='git checkout master'
+alias gcd='git checkout development'
+alias gprom='git pull --rebase origin master'
+alias gpom='git push origin master'
+
